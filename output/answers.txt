@@ -1,5 +1,11 @@
 1.-
 2.-
-3. Local 53s, S3
+3.
+Local: 53s
+EMR: 
+real	25m41.541s
+user	0m3.427s
+sys	0m0.373s
+
 4. "address"	2042
-5.
+5. Yes both gave the same answers
